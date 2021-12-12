@@ -7,24 +7,20 @@
   'emp2': {'name': 'Emma',
   'salary': 8000},
   'emp3': {'name': 'Brad',
-  'salary': 500}
-
-  }
+  'salary': 500} }
   
 2.Get the key of a minimum value from the following dictionary.
   sample_dict = {
   'Physics': 82,
   'Math': 65,
-  'history': 75
-  }
+  'history': 75 }
   
 3.Write a program to rename a key city to a location in the following dictionary.
   sample_dict = {
   "name": "Kelly",
   "age":25,
   "salary": 8000,
-  "city": "New york"
-  }
+  "city": "New york"  }
 
 4. Write a Python program to check if value 200 exists in the following dictionary.
   sample_dict = {'a': 100,
