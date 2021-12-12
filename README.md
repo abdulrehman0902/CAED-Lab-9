@@ -38,7 +38,7 @@
   "salary": 8000,
   "city": "New york"
   }
-  # Keys to remove
+  Keys to remove
   keys = ["name", "salary"]
 
 6. Create an empty dictionary. Fill it with 5 students’ data (name, roll number, and GPA) by
